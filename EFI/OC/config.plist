@@ -186,8 +186,6 @@
 			<false/>
 			<key>ProvideCustomSlide</key>
 			<true/>
-			<key>ProvideMaxSlide</key>
-			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
 			<key>SetupVirtualMap</key>
@@ -233,8 +231,6 @@
 		<key>Add</key>
 		<array>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
@@ -251,8 +247,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>CtlnaAHCIPort.kext</string>
 				<key>Comment</key>
@@ -269,8 +263,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
@@ -287,8 +279,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
@@ -305,8 +295,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Controller.kext</string>
 				<key>Comment</key>
@@ -323,8 +311,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Keyboard.kext</string>
 				<key>Comment</key>
@@ -341,8 +327,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>CodecCommander.kext</string>
 				<key>Comment</key>
@@ -359,8 +343,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>RealtekRTL8111.kext</string>
 				<key>Comment</key>
@@ -377,8 +359,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>SMCBatteryManager.kext</string>
 				<key>Comment</key>
@@ -395,8 +375,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>SMCProcessor.kext</string>
 				<key>Comment</key>
@@ -413,8 +391,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext</string>
 				<key>Comment</key>
@@ -431,8 +407,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
 				<key>Comment</key>
@@ -449,8 +423,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
 				<key>Comment</key>
@@ -467,8 +439,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
 				<key>Comment</key>
@@ -485,8 +455,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
 				<key>Comment</key>
@@ -503,8 +471,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
@@ -521,8 +487,6 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>BundlePath</key>
 				<string>ApplePS2SmartTouchPad.kext</string>
 				<key>Comment</key>
@@ -542,8 +506,6 @@
 		<key>Block</key>
 		<array>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -562,20 +524,10 @@
 			<data></data>
 			<key>Cpuid1Mask</key>
 			<data></data>
-			<key>DummyPowerManagement</key>
-			<false/>
-			<key>MaxKernel</key>
-			<string></string>
-			<key>MinKernel</key>
-			<string></string>
 		</dict>
-		<key>Force</key>
-		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>Base</key>
 				<string>__ZN8AppleRTC18setupDateTimeAlarmEPK11RTCDateTime</string>
 				<key>Comment</key>
@@ -604,8 +556,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>Any</string>
 				<key>Base</key>
 				<string>_AcpiOsVprintf</string>
 				<key>Comment</key>
@@ -634,8 +584,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
 				<key>Base</key>
 				<string>__ZN11BCM5701Enet14getAdapterInfoEv</string>
 				<key>Comment</key>
@@ -664,8 +612,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
 				<key>Base</key>
 				<string>_panic</string>
 				<key>Comment</key>
@@ -694,8 +640,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
 				<key>Base</key>
 				<string>_kernel_debug_string_early</string>
 				<key>Comment</key>
@@ -724,8 +668,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
 				<key>Base</key>
 				<string>_vstart</string>
 				<key>Comment</key>
@@ -768,21 +710,15 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
-			<key>DisableLinkeditJettison</key>
-			<false/>
 			<key>DisableRtcChecksum</key>
 			<false/>
-			<key>ExtendBTFeatureFlags</key>
+			<key>DummyPowerManagement</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
-			<false/>
-			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
-			<false/>
-			<key>LegacyCommpage</key>
 			<false/>
 			<key>PanicNoKextDump</key>
 			<true/>
@@ -792,15 +728,6 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<true/>
-		</dict>
-		<key>Scheme</key>
-		<dict>
-			<key>FuzzyMatch</key>
-			<true/>
-			<key>KernelArch</key>
-			<string>x86_64</string>
-			<key>KernelCache</key>
-			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -872,26 +799,14 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
-			<key>ApECID</key>
-			<integer>0</integer>
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
 			<string>Bootstrap</string>
-			<key>DmgLoading</key>
-			<string>Signed</string>
-			<key>EnablePassword</key>
-			<false/>
 			<key>ExposeSensitiveData</key>
 			<integer>6</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
-			<key>PasswordHash</key>
-			<data></data>
-			<key>PasswordSalt</key>
-			<data></data>
-			<key>SecureBootModel</key>
-			<string>Default</string>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
@@ -984,18 +899,43 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>CustomMemory</key>
-		<false/>
+		<key>DataHub</key>
+		<dict>
+			<key>ARTFrequency</key>
+			<integer>0</integer>
+			<key>BoardProduct</key>
+			<string>Mac-551B86E5744E2388</string>
+			<key>BoardRevision</key>
+			<data>HA==</data>
+			<key>DevicePathsSupported</key>
+			<integer>0</integer>
+			<key>FSBFrequency</key>
+			<integer>0</integer>
+			<key>InitialTSC</key>
+			<integer>0</integer>
+			<key>PlatformName</key>
+			<string></string>
+			<key>SmcBranch</key>
+			<data>MjAxN21icAA=</data>
+			<key>SmcPlatform</key>
+			<data>ajgwZ2EAAAA=</data>
+			<key>SmcRevision</key>
+			<data>AkUPAAAE</data>
+			<key>StartupPowerEvents</key>
+			<integer>0</integer>
+			<key>SystemProductName</key>
+			<string>MacBookPro14,3</string>
+			<key>SystemSerialNumber</key>
+			<string>C02T2TZ5HTD5</string>
+			<key>SystemUUID</key>
+			<string>4D393996-CFAB-4241-AD96-162FA91CB40A</string>
+		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02726600GUJ1JHAD</string>
-			<key>ProcessorType</key>
-			<integer>1797</integer>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
+			<string>C02701270GUJ1JHAD</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -1003,9 +943,81 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TXYYNHTD5</string>
+			<string>C02T2TZ5HTD5</string>
 			<key>SystemUUID</key>
-			<string>FB1846F9-3BD9-4CB9-B704-7D7D028CB8EC</string>
+			<string>4D393996-CFAB-4241-AD96-162FA91CB40A</string>
+		</dict>
+		<key>PlatformNVRAM</key>
+		<dict>
+			<key>BID</key>
+			<string>Mac-551B86E5744E2388</string>
+			<key>FirmwareFeatures</key>
+			<data>fvUP/wAAAAA=</data>
+			<key>FirmwareFeaturesMask</key>
+			<data>f/8f/wAAAAA=</data>
+			<key>MLB</key>
+			<string>C02701270GUJ1JHAD</string>
+			<key>ROM</key>
+			<data>ESIzAAAA</data>
+		</dict>
+		<key>SMBIOS</key>
+		<dict>
+			<key>BIOSReleaseDate</key>
+			<string>10/06/2020</string>
+			<key>BIOSVendor</key>
+			<string></string>
+			<key>BIOSVersion</key>
+			<string>429.40.5.0.0</string>
+			<key>BoardAssetTag</key>
+			<string>Base Board Asset Tag</string>
+			<key>BoardLocationInChassis</key>
+			<string>Part Component</string>
+			<key>BoardManufacturer</key>
+			<string></string>
+			<key>BoardProduct</key>
+			<string>Mac-551B86E5744E2388</string>
+			<key>BoardSerialNumber</key>
+			<string>C02701270GUJ1JHAD</string>
+			<key>BoardType</key>
+			<integer>10</integer>
+			<key>BoardVersion</key>
+			<string>MacBookPro14,3</string>
+			<key>ChassisAssetTag</key>
+			<string>Asset Tag#</string>
+			<key>ChassisManufacturer</key>
+			<string></string>
+			<key>ChassisSerialNumber</key>
+			<string>C02T2TZ5HTD5</string>
+			<key>ChassisType</key>
+			<integer>9</integer>
+			<key>ChassisVersion</key>
+			<string>Mac-551B86E5744E2388</string>
+			<key>FirmwareFeatures</key>
+			<data>fvUP/wAAAAA=</data>
+			<key>FirmwareFeaturesMask</key>
+			<data>f/8f/wAAAAA=</data>
+			<key>MemoryFormFactor</key>
+			<integer>13</integer>
+			<key>PlatformFeature</key>
+			<integer>26</integer>
+			<key>ProcessorType</key>
+			<integer>1797</integer>
+			<key>SmcVersion</key>
+			<data></data>
+			<key>SystemFamily</key>
+			<string>MacBook Pro</string>
+			<key>SystemManufacturer</key>
+			<string></string>
+			<key>SystemProductName</key>
+			<string>MacBookPro14,3</string>
+			<key>SystemSKUNumber</key>
+			<string>System SKU#</string>
+			<key>SystemSerialNumber</key>
+			<string>C02T2TZ5HTD5</string>
+			<key>SystemUUID</key>
+			<string>4D393996-CFAB-4241-AD96-162FA91CB40A</string>
+			<key>SystemVersion</key>
+			<string>1.0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1087,8 +1099,6 @@
 			<string></string>
 			<key>DirectGopRendering</key>
 			<false/>
-			<key>ForceResolution</key>
-			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -1120,13 +1130,9 @@
 			<false/>
 			<key>AppleImageConversion</key>
 			<false/>
-			<key>AppleImg4Verification</key>
-			<false/>
 			<key>AppleKeyMap</key>
 			<false/>
 			<key>AppleRtcRam</key>
-			<false/>
-			<key>AppleSecureBoot</key>
 			<false/>
 			<key>AppleSmcIo</key>
 			<false/>
@@ -1173,8 +1179,6 @@
 				<false/>
 				<key>Size</key>
 				<integer>268435456</integer>
-				<key>Type</key>
-				<string>Reserved</string>
 			</dict>
 		</array>
 	</dict>
